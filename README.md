@@ -11,7 +11,7 @@ Contributing
 Introduction
 Nerd'Store is an online bookstore specializing in books across various genres including science fiction, fantasy, graphic novels, manga, young adult fiction, and more. We aim to provide a platform for book enthusiasts to explore, discover, and purchase their favorite reads conveniently.
 
-Visit us at [www.nerdstore.com](https://nerd-store-frontend.onrender.com](https://mern-frontend-delta-ochre.vercel.app/)) to explore our collection!
+Visit us at [www.nerdstore.com](https://mern-frontend-delta-ochre.vercel.app/)to explore our collection!
 
 Features
 Extensive Book Catalog: Browse through a diverse range of books across multiple genres.
