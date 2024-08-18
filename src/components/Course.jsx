@@ -8,7 +8,7 @@ function Course() {
     const getBook = async () => {
       try {
         // const res = await axios.get("http://localhost:4001/book");
-        const res = await axios.get("https://mern-stack-fu32.onrender.com/book");
+        const res = await axios.get("https://mern-backend-s1t1.onrender.com/book");
          
         console.log(res.data);
         setBook(res.data);
