@@ -11,14 +11,12 @@ Contributing
 Introduction
 Nerd'Store is an online bookstore specializing in books across various genres including science fiction, fantasy, graphic novels, manga, young adult fiction, and more. We aim to provide a platform for book enthusiasts to explore, discover, and purchase their favorite reads conveniently.
 
-Visit us at [www.nerdstore.com](https://mern-frontend-delta-ochre.vercel.app/)to explore our collection!
 
 Features
 Extensive Book Catalog: Browse through a diverse range of books across multiple genres.
 User Accounts: Create an account to manage your profile, wishlist, and purchase history.
 Search and Filters: Easily find books using our search functionality and filter options.
 Secure Checkout: Enjoy a secure and seamless checkout process for your purchases.
-Wishlist: Save books to your wishlist for future reference.
 Responsive Design: Our website is designed to work smoothly across various devices.
 Getting Started
 To get started with Nerd'Store, follow these steps:
@@ -36,8 +34,7 @@ Wishlist: Add books to your wishlist to save them for later.
 Making a Purchase
 Add books to your cart and proceed to checkout.
 Enter shipping and payment details securely.
-Support
-For any questions, feedback, or assistance, feel free to reach out to our support team at support@nerdstore.com.
+
 
 Contributing
 We welcome contributions to improve and enhance our bookstore website. If you're interested in contributing, please refer to our Contribution Guidelines.
