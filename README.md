@@ -22,6 +22,8 @@ Getting Started
 To get started with Nerd'Store, follow these steps:
 
 Visit Our Website: Go to [www.nerdstore.com](https://mern-frontend-delta-ochre.vercel.app/).
+
+
 Explore Our Catalog: Browse through our collection of books by genre or use the search bar to find specific titles.
 Create an Account: Sign up to create your personal account for a more personalized experience.
 Usage
